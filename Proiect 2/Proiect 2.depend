@@ -1,0 +1,107 @@
+# depslib dependency file v1.0
+1546938135 source:d:\proiect 2 poo\proiect 2\main.cpp
+	<iostream>
+	"Activitate.h"
+	"Activitate.cpp"
+	"Curs.h"
+	"Curs.cpp"
+	"Persoana.h"
+	"Persoana.cpp"
+	"PersoanaRep.h"
+	"PersoanaRep.cpp"
+	"Repository.h"
+	"Repository.cpp"
+	"Rol Administrativ.h"
+	"Rol Administrativ.cpp"
+	"Rol Guest.h"
+	"Rol Guest.cpp"
+	"Rol.h"
+	"Rol.cpp"
+	"Room.h"
+	"Room.cpp"
+	"TeacherRole.h"
+	"TeacherRole.cpp"
+	"RoomRep.h"
+	"RoomRep.cpp"
+	<string>
+	<vector>
+
+1546934983 d:\proiect 2 poo\proiect 2\persoana.h
+	<string>
+	<vector>
+	"Rol.h"
+
+1546929607 d:\proiect 2 poo\proiect 2\rol.h
+
+1546934361 d:\proiect 2 poo\proiect 2\activitate.h
+	<string>
+	"Room.h"
+	"Persoana.h"
+
+1546930054 d:\proiect 2 poo\proiect 2\room.h
+	<string>
+
+1546934361 d:\proiect 2 poo\proiect 2\activitate.cpp
+	"Activitate.h"
+	<iostream>
+
+1546933299 d:\proiect 2 poo\proiect 2\curs.h
+	"Activitate.h"
+
+1546931575 d:\proiect 2 poo\proiect 2\curs.cpp
+	"Curs.h"
+
+1546938090 d:\proiect 2 poo\proiect 2\persoana.cpp
+	"Persoana.h"
+	<iostream>
+
+1546935996 d:\proiect 2 poo\proiect 2\persoanarep.h
+	"Repository.h"
+	"Persoana.h"
+	<vector>
+
+1546929141 d:\proiect 2 poo\proiect 2\repository.h
+	<vector>
+
+1546936116 d:\proiect 2 poo\proiect 2\persoanarep.cpp
+	<iostream>
+	<vector>
+	"PersoanaRep.h"
+
+1546937216 d:\proiect 2 poo\proiect 2\repository.cpp
+	<iostream>
+	"Repository.h"
+
+1546934995 d:\proiect 2 poo\proiect 2\rol administrativ.h
+
+1546930496 d:\proiect 2 poo\proiect 2\rol administrativ.cpp
+	"Rol Administrativ.h"
+
+1546935010 d:\proiect 2 poo\proiect 2\rol guest.h
+	"Rol.h"
+
+1546930770 d:\proiect 2 poo\proiect 2\rol guest.cpp
+	"Rol Guest.h"
+
+1546929688 d:\proiect 2 poo\proiect 2\rol.cpp
+	"Rol.h"
+
+1546930186 d:\proiect 2 poo\proiect 2\room.cpp
+	"Room.h"
+
+1546935389 d:\proiect 2 poo\proiect 2\teacherrole.h
+	<iostream>
+	"Rol.h"
+
+1546935407 d:\proiect 2 poo\proiect 2\teacherrole.cpp
+	<iostream>
+	"TeacherRole.h"
+
+1546937071 d:\proiect 2 poo\proiect 2\roomrep.h
+	<vector>
+	"Repository.h"
+	"Room.h"
+
+1546937071 d:\proiect 2 poo\proiect 2\roomrep.cpp
+	"RoomRep.h"
+
